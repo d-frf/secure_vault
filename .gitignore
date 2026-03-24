@@ -208,5 +208,11 @@ __marimo__/
 
 
 VAULT*
+#pub_keys/
 shared_keys/
 users_data/
+clientStore/clientStore/
+acManager/filesystem/
+acManager/sharedFiles.json
+acManager/users.json
+acManager/groups.json
